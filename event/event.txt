@@ -1,6 +1,6 @@
 [
   {
-    "idgame": 1,
+    "idgame": 0,
     "seemore": false,
     "name": "SỰ KIỆN X6 HŨ",
     "title": "SỰ KIỆN X6 HŨ",
@@ -11,7 +11,7 @@
     "doituong": "Người chơi các game slot"
   },
   {
-    "idgame": 2,
+    "idgame": 1,
     "name": "SỰ KIỆN X3 NẠP",
     "title": "SỰ KIỆN X3 NẠP",
     "time": "Hàng ngày",
@@ -23,7 +23,7 @@
     "doituong": "Khuyến mại cho tất cả các thành viên mới đăng kí"
   },
   {
-    "idgame": 3,
+    "idgame": 2,
     "name": "ĐIỂM DANH NHẬN QUÀ",
     "title": "ĐIỂM DANH NHẬN QUÀ",
     "time": "Hàng ngày",
@@ -35,7 +35,7 @@
     "doituong": "Áp dụng cho tất cả thành viên của TO"
   },
   {
-    "idgame": 4,
+    "idgame": 3,
     "name": "SỰ KIỆN HOÀN TO",
     "title": "SỰ KIỆN HOÀN TO",
     "onoff": "IS_BO",

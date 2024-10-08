@@ -1,6 +1,7 @@
 [
   {
-    "idgame": 45,
+    "idgame": 1,
+    "seemore": false,
     "name": "SỰ KIỆN X6 HŨ",
     "title": "SỰ KIỆN X6 HŨ",
     "time": "00:00 Thứ 3,Thứ 4,Thứ 5,Thứ 6,Thứ 7 Hàng Tuần",
@@ -10,36 +11,39 @@
     "doituong": "Người chơi các game slot"
   },
   {
-    "idgame": 33,
-    "name": "SỰ KIỆN HOÀN TO",
-    "title": "SỰ KIỆN HOÀN TO",
-    "onoff": "IS_BO",
-    "time": "Sự kiện bắt đầu từ 00h00 ngày 28/10 và diễn ra hàng ngày xuyên suốt trên cổng game",
-    "content": "- Dựa vào số TO người chơi nạp vào game (không tính code & lộc), người chơi sẽ nhận được hoàn 5% TO thua trong ngày khi:\n+ Trong ngày, thua tối thiểu 200k TO\n+ Luồng tiền chơi lớn hơn hoặc bằng 3 lần tiền thua\n+ Sau 0h00, người chơi có thể vào nhận Hoàn 5% TO thua trong ngày hôm trước.\n+ Thông báo trong hòm thư được gửi sau 14h00 cùng ngày.\n\n* Ví dụ: trong ngày người chơi thua 200k và luồng chơi trên 600k, khi thua hết 200k sang ngày hôm sau người chơi sẽ nhận lại hoàn 5% của 200k là 10k.",
-    "giaithuong": "- 5% TO thua trong ngày",
-    "luuy": "- Hoàn TO được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng\n- Trong quá trình chơi, người chơi có nhận được code và lộc từ Đại Lý hoặc người chơi khác thì số tiền đó cũng không được tính vào là thua.",
-    "doituong": "- Tất cả người chơi tham gia trên cổng TO."
+    "idgame": 2,
+    "name": "SỰ KIỆN X3 NẠP",
+    "title": "SỰ KIỆN X3 NẠP",
+    "time": "Hàng ngày",
+    "onoff": "IS_EVENT_X2NAP",
+    "seemore": true,
+    "content": "- Nhận thưởng 200% TO nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 TO\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, Nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
+    "giaithuong": "- Nhận thưởng 200% TO nạp lần đầu",
+    "luuy": "- TO thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận thưởng\n\n- Tiến trình được ghi nhận khi người chơi đặt cược không hoàn trả tại các game minigame , slot ( không tính các game BẦu Cua , BONG88, Game Bài, LIVE CASINO và các game bắn cá)\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng hay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt TO thưởng,nếu tiến trình nhận thưởng không hoàn thành 100% thì toàn bộ số TO thưởng sẽ bị hủy\n\n- Khi thực hiện 1 trong 3 hình thức nạp thì 2 hình thức còn lại sẽ không được thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuốc về NPH.",
+    "doituong": "Khuyến mại cho tất cả các thành viên mới đăng kí"
   },
   {
-    "idgame": 25,
+    "idgame": 3,
     "name": "ĐIỂM DANH NHẬN QUÀ",
     "title": "ĐIỂM DANH NHẬN QUÀ",
     "time": "Hàng ngày",
-    "onoff": "IS_BO",
+    "onoff": "is_diem_danh",
+    "seemore": true,
     "content": "- Đăng nhập vào TO mỗi ngày và hệ thống sẽ tự động tích lũy số ngày \nđăng nhập cho bạn.\n\n- Chơi TO: Hệ thống sẽ tích lũy lại những phiên đặt cược thành công \ncủa bạn tối thiểu một phiên 10k\n\n- Chỉ áp dụng cho các tài khoản đãn đăng ký SĐT bảo mật\n\n- Nếu bạn hoàn thành đủ 3 điều kiện kể trên thì tới các ngày 7,15,30 hệ \nthống sẽ tự động cộng thưởng với số TO tương ứng vào tài khoản của bạn",
     "giaithuong": "- Điểm danh 7 ngày liên tục: 5.000 TO\n- Điểm danh 15 ngày liên tục: 10.000 TO\n- Điểm danh 30 ngày liên tục: 15.000 TO",
     "luuy": "- Bạn phải hoàn thành nhiệm vụ điểm danh này liên tiếp lần lượt là 7 ngày, \n15 ngày và 30 ngày thì hệ thống mới trao tặng mức thưởng tương ứng cho \nbạn. Nếu thiếu 1 ngày trong chuỗi liên tiếp đó thì cũng sẽ không được tính.",
     "doituong": "Áp dụng cho tất cả thành viên của TO"
   },
   {
-    "idgame": 26,
-    "name": "SỰ KIỆN X3 NẠP",
-    "title": "SỰ KIỆN X3 NẠP",
-    "time": "Hàng ngày",
-    "onoff": "IS_EVENT_X2NAP",
-    "content": "- Nhận thưởng 200% TO nạp lần đầu\n- Tối đa có thể nhận thưởng lên tới 5.000.000 TO\n-Áp dụng cho tất cá các hình thức nạp: Nạp qua thẻ, Nạp qua Ngân hàng, Nạp qua ví điện tử trong lần đầu.",
-    "giaithuong": "- Nhận thưởng 200% TO nạp lần đầu",
-    "luuy": "- TO thưởng nhận được khi người chơi hoàn thành 100% tiến trình nhận thưởng\n\n- Tiến trình được ghi nhận khi người chơi đặt cược không hoàn trả tại các game minigame , slot ( không tính các game BẦu Cua , BONG88, Game Bài, LIVE CASINO và các game bắn cá)\n\n- Chơi game càng nhiều tiến trình nhận thưởng càng nhanh, không kể thắng hay thua\n\n- Tiến trình nhận thưởng được cập nhật liên tục\n\n- Trong vòng 20 ngày kể từ ngày kích hoạt TO thưởng,nếu tiến trình nhận thưởng không hoàn thành 100% thì toàn bộ số TO thưởng sẽ bị hủy\n\n- Khi thực hiện 1 trong 3 hình thức nạp thì 2 hình thức còn lại sẽ không được thực hiện nữa\n\n- Các trường hợp cố ý dùng mọi cách để trục lợi quyền quyết định sẽ thuốc về NPH.",
-    "doituong": "Khuyến mại cho tất cả các thành viên mới đăng kí"
+    "idgame": 4,
+    "name": "SỰ KIỆN HOÀN TO",
+    "title": "SỰ KIỆN HOÀN TO",
+    "onoff": "IS_BO",
+    "seemore": true,
+    "time": "Sự kiện bắt đầu từ 00h00 ngày 28/10 và diễn ra hàng ngày xuyên suốt trên cổng game",
+    "content": "- Dựa vào số TO người chơi nạp vào game (không tính code & lộc), người chơi sẽ nhận được hoàn 5% TO thua trong ngày khi:\n+ Trong ngày, thua tối thiểu 200k TO\n+ Luồng tiền chơi lớn hơn hoặc bằng 3 lần tiền thua\n+ Sau 0h00, người chơi có thể vào nhận Hoàn 5% TO thua trong ngày hôm trước.\n+ Thông báo trong hòm thư được gửi sau 14h00 cùng ngày.\n\n* Ví dụ: trong ngày người chơi thua 200k và luồng chơi trên 600k, khi thua hết 200k sang ngày hôm sau người chơi sẽ nhận lại hoàn 5% của 200k là 10k.",
+    "giaithuong": "- 5% TO thua trong ngày",
+    "luuy": "- Hoàn TO được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng\n- Trong quá trình chơi, người chơi có nhận được code và lộc từ Đại Lý hoặc người chơi khác thì số tiền đó cũng không được tính vào là thua.",
+    "doituong": "- Tất cả người chơi tham gia trên cổng TO."
   }
 ]

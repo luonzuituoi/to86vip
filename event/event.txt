@@ -6,7 +6,8 @@
     "title": "SỰ KIỆN X6 HŨ",
     "time": "Tất cả các ngày trong tuần từ 00h00 - 23h59",
     "content": "Thứ 2: Fast And Furious (Đua Xe).\nThứ 3: Người Trong Giang Hồ.\nThứ 4: Thần Bài.\nThứ 5: World Of Dance.\nThứ 6: Rồng Hổ (Vua Thú).\nThứ 7: Ai Cập.\nChủ Nhật: VuiClub, LuckyLuke.",
-    "giaithuong": "",
+    "giaithuong": "\n- X6 giá trị khởi tạo hũ 100, cứ 1 - 3 hũ thường sẽ có 1 hũ sự kiện. Tối đa 10 hũ sự kiện trong thời gian diễn ra sự kiện.\n- X2 giá trị khởi tạo hũ 1000, cứ 1-3 hũ thường sẽ có 1 hũ sự kiện. Tối đa 10 hũ sự kiện trong thời gian diễn ra sự kiện.\n- X2 giá trị khởi tạo hũ 5000, 10000. Tối đa 1 hũ sự kiện trong thời gian diễn ra sự kiện.
+",
     "luuy": "- Sự kiện có thể kết thúc sớm khi đã hết hũ sự kiện. Sau khi kết thúc khung giờ sự kiện mà hũ sự kiện vẫn còn thì sự kiện cũng kết thúc và hũ quay trở lại giá trị bình thường.\n- Trong trường hợp phát sinh tranh chấp, quyết định của NPH là quyết định cuối cùng.",
     "doituong": "Tất cả các người chơi trên cổng game"
   },

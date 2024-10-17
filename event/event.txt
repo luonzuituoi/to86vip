@@ -38,7 +38,7 @@
     "idgame": 3,
     "name": "SỰ KIỆN HOÀN TO",
     "title": "SỰ KIỆN HOÀN TO",
-    "onoff": "IS_BO",
+    "onoff": "is_hoan_tien",
     "seemore": false,
     "time": "Sự kiện bắt đầu từ 00h00 đến 23h59, diễn ra hàng ngày xuyên suốt trên cổng game",
     "content": "- Hàng ngày, hệ thống sẽ ghi nhận TỔNG TIỀN THUA của Quý khách để hoàn 1% TỔNG TIỀN THUA (tối đa 10M) vào ngày hôm sau.\n- Trong ngày TÍCH LŨY nạp tối thiểu 100.000 TO.\n-Tiền hoàn sẽ được gửi trực tiếp đến hòm thư, Quý khách hàng vui lòng mở thư để nhận tiền hoàn.",

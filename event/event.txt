@@ -41,8 +41,8 @@
     "onoff": "is_hoan_tien",
     "seemore": false,
     "time": "Sự kiện bắt đầu từ 00h00 đến 23h59, diễn ra hàng ngày xuyên suốt trên cổng game",
-    "content": "- Hàng ngày, hệ thống sẽ ghi nhận TỔNG TIỀN THUA của Quý khách để hoàn 1% TỔNG TIỀN THUA (tối đa 10M) vào ngày hôm sau.\n- Trong ngày TÍCH LŨY nạp tối thiểu 100.000 TO.\n-Tiền hoàn sẽ được gửi trực tiếp đến hòm thư, Quý khách hàng vui lòng mở thư để nhận tiền hoàn.",
-    "giaithuong": "- 1% TO thua trong ngày",
+    "content": "- Hàng ngày, hệ thống sẽ ghi nhận TỔNG TIỀN THUA của Quý khách để hoàn TO lại theo TỔNG TIỀN THUA (tối đa 10M) vào ngày hôm sau.\n- Trong ngày TÍCH LŨY nạp tối thiểu 100.000 TO.\n-Tiền hoàn sẽ được gửi trực tiếp đến hòm thư, Quý khách hàng vui lòng mở thư để nhận tiền hoàn.",
+    "giaithuong": "- Dựa trên tổng số TO bạn thua trong ngày",
     "luuy": "- Hoàn TO được nhận từ 0h00 hàng ngày, sau 23h59p cùng ngày nếu người chơi không nhận thưởng thì phần quà sẽ hết giá trị sử dụng.\n- NPH có quyền thu hồi giải thưởng nếu phát hiện hành vi gian lận của Quý khách hàng.\n- Trong trường hợp phát sinh tranh chấp, quyết định của NPH là quyết định cuối cùng.",
     "doituong": "- Tất cả người chơi tham gia trên cổng TO."
   }

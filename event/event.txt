@@ -9,8 +9,8 @@
     "title": "Chào Mừng Năm Mới 2025",
     "time": "11/01/2025 -> 11/02/2025",
     "content": "Chào Mừng Năm Mới 2025 và Đón Xuân Ất Tỵ, cổng game TO86 xin đuuợc gửi tới Quý Khách Hàng Siêu Sự Kiện: Mừng Xuân Ất Tỵ, Nhận Quà Tỷ TO",
-    "giaithuong": "Giải thưởng hàng ngày:\nTop 1: 2M TO( dành tối thiểu 3000 điểm )\nTop 2: 1M TO( dánh tối thiểu 2000 điểm )\nTop 3: 500K TO( dành tối thiểu 1000 điểm )\nTop 4-10: 200K TO\nTop 11 - 20: 100K TO\nTop 21 - 50: 50K TO\nTop 51 - 100: 20K TO\n\nGiải thưởng chung cuộc:\nTop 1: 1 xe Mazda CX5 - 800M( đạt ít nhất 150K điểm )\nTop 2: 1 xe SH 150 - 150M( đạt ít nhất 100K điểm )\nTop 3: 1 iPhone 16 pro max -  40M( đạt ít nhất 50K điểm )\nTop 4: 5M TO\nTop 5: 3M TO\nTop 6 -10: 1M TO\nTop 11 - 20: 500K TO\nTop 21 - 50: 200K TO\nTop 51 - 100: 100k TO",
-    "luuy": "Giải chung cuộc, người chơi có thể nhận bằng hiện vật hoặc quy đổi sang TO. Nếu có sự tranh chấp, quyết định cuối cùng là của NPH.",
+    "giaithuong": "Giải thưởng hàng ngày:\nTop 1: 2.000.000 TO ( đạt tối thiểu 3000 điểm )\nTop 2: 1.000.000 TO ( đạt tối thiểu 2000 điểm )\nTop 3: 500.000 TO ( đạt tối thiểu 1000 điểm )\nTop 4-10: 200.000 TO \nTop 11-20: 100.000 TO\nTop 21-50: 50.000 TO\nTop 51-100: 20.000 TO\n\nTop 1: 1 xe Mazda CX5 2025 - 800.000.000 TO ( đạt tối thiểu 150.000 điểm )\nTop 2: 1 xe SHi 150 - 150.000.000 TO ( đạt tối thiểu 100.000 điểm )\nTop 3: 1 iPhone 16 Promax - 40.000.000 TO ( đạt tối thiểu 50.000 điểm )\nTop 4: 5.000.000 TO \nTop 5: 3.000.000 TO\nTop 6-10: 1.000.000 TO\nTop 11-20: 500.000 TO\nTop 21-50: 200.000 TO\nTop 51-100: 100.000 TO\nĐiểm số sẽ được tính theo số tiền nạp và luồng chơi của \nQuý Khách Hàng, các bạn chơi càng nhiều điểm sẽ tăng càng nhiều.",
+    "luuy": "- Giải thưởng hàng ngày sẽ được cộng trực tiếp vào tài khoản của quý khách vào ngày hôm sau.\n- Giải chung cuộc sẽ được trao sau khi kết thúc sự kiện 48h, người chơi có thể \nnhận bằng hiện vật hoặc quy đổi sang TO.\n- Nếu có bất kì sự tranh chấp nào, quyết định cuối cùng là của NPH.",
     "doituong": "Tất cả các người chơi trên cổng game"
   },
   {

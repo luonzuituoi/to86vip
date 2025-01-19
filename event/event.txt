@@ -1,7 +1,7 @@
 [{
     "idgame": 5,
     "idevent": 3,
-    "seemore": true,
+    "seemore": false,
     "isevent": true,
     "onoff": "lixi_event",
     "name": "Vui Xuân Ất Tỵ - Vào TO là có LÌ XÌ",

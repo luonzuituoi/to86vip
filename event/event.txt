@@ -6,10 +6,10 @@
     "onoff": "lixi_event",
     "name": "Vui Xuân Ất Tỵ - Vào TO là có LÌ XÌ",
     "title": "Vui Xuân Ất Tỵ - Vào TO là có LÌ XÌ",
-    "time": "Từ ngày 29/01 - 02/02 trong khung giờ từ 19:00 - 21:00",
+    "time": "Từ ngày 29/01 - 03/02 trong khung giờ từ 19:00 - 21:00",
     "content": "Nhân dịp Xuân Ất Tỵ và Chào Đón Năm Mới 2025\n NPH TO86 xin gửi đến toàn thể Quý Khách Hàng sự kiện: \nLì Xì giờ vàng, nhận lộc bạt ngàn",
     "giaithuong": "Khi đăng nhập vào cổng game người chơi sẽ được rút \n3 gói Lì Xì Phúc -  Lộc - Thọ. Với mỗi loại Lì Xì, \nngười chơi sẽ có cơ hội nhận lộc ngẫu nhiên từ 686 TO đến 686.686 TO.",
-    "luuy": "- Giải thưởng hàng ngày sẽ được cộng trực tiếp vào tài khoản của quý khách",
+    "luuy": "- Giải thưởng sẽ được cộng trực tiếp vào tài khoản của quý khách",
     "doituong": "Tất cả các người chơi trên cổng game"
   },
   {
